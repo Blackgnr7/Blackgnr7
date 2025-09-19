@@ -6,12 +6,9 @@ Ola meu no é lying e tou iniciando na area de progamação e o meu sonho é ser
 
 ---
 
-## 🚀 Minhas Skills
+## ⭐Status do GitHUb 
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Blackgnr7&show_icons=true&theme=transparent&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blackgnr7&layout=donut&theme=transparent)
 
 ---
-
-## ⭐ GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Blackgnr7&show_icons=true&theme=transparent&include_all_commits=true)
