@@ -1,16 +1,17 @@
-## Hi there 👋
+## 💜 Olá, meu nome é lying!
 
-<!--
-**Blackgnr7/Blackgnr7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ola meu no é lying e tou iniciando na area de progamação e o meu sonho é ser trabalhar na area de engenharia da computação, uso para colocar os meus repositores para depois do futuro eu vim dar uma olhada ou ate para o pessoal me ajudar e dar sua opnião.
 
-Here are some ideas to get you started:
+💬 meu id do discord é blacgnr7 e meu gmail é blacgnr7@gmail.com.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Minhas Skills
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blackgnr7&layout=donut&theme=transparent)
+
+---
+
+## ⭐ GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Blackgnr7&show_icons=true&theme=transparent&include_all_commits=true)
