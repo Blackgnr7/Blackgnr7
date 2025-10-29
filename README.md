@@ -2,7 +2,7 @@
 
 Ola meu no é lying e tou iniciando na area de progamação e o meu sonho é ser trabalhar na area de engenharia da computação, uso para colocar os meus repositores para depois do futuro eu vim dar uma olhada ou ate para o pessoal me ajudar e dar sua opnião.
 
-💬 meu id do discord é blacgnr7 e meu gmail é blacgnr7@gmail.com.
+💬 O meu gmail é blacgnr7@gmail.com.
 
 ---
 
