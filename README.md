@@ -8,7 +8,7 @@ Ola meu no é lying e tou iniciando na area de progamação e o meu sonho é ser
 
 ## ⭐Status do GitHUb 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Blackgnr7&show_icons=true&theme=transparent&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blackgnr7&layout=donut&theme=transparent)
+![Blackgnr7 GitHub stats](https://github-readme-stats.vercel.app/api?username=Blackgnr7&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blackgnr7&layout=donut&theme=tokyonight)
 
 ---
