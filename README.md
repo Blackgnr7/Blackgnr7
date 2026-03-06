@@ -7,8 +7,13 @@ Ola meu é lying e tou iniciando na area de progamação e o meu sonho é ser tr
 ---
 
 ## ⭐Status do GitHUb 
+<div align="center">
 
-![Blackgnr7 GitHub stats](https://github-readme-stats.vercel.app/api?username=Blackgnr7&show_icons=true&theme=tokyonight)
-![Blackgnr7 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blackgnr7&layout=donut&theme=tokyonight)
+![GitHub status profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Blackgnr7&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Blackgnr7&theme=radical)](https://git.io/streak-stats)
+![GitHub Most used in comnit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Blackgnr7&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Blackgnr7&theme=radical)
+
+</div>
 
 ---
